@@ -1,5 +1,1 @@
-import numpy as np
-
-a=[["a","b","c"], ["ddd","eee","fff"]]
-b=np.array(a)
-print(b)
+__pycache__
